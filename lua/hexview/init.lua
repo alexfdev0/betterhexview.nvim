@@ -12,7 +12,7 @@ local cursor_ns = vim.api.nvim_create_namespace("hexview_cursor_ns")
 -- ============================================================
 -- CONFIGURATION
 -- ============================================================
-M.bytes_per_line = 52
+M.bytes_per_line = 16
 M.ascii_start_col = 0
 M.hex_width = 0
 
